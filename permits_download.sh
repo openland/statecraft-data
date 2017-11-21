@@ -26,3 +26,17 @@ wget -O permits_issued_raw/September2016.xlsx http://sfdbi.org/sites/default/fil
 wget -O permits_issued_raw/October2016.xlsx http://sfdbi.org/sites/default/files/October2016Issued.xlsx
 wget -O permits_issued_raw/November2016.xlsx http://sfdbi.org/sites/default/files/November2016Issued.xlsx
 wget -O permits_issued_raw/December2016.xlsx http://sfdbi.org/sites/default/files/December2016Issued.xlsx
+
+
+wget -O permits_issued_raw/January2017.xlsx http://sfdbi.org/sites/default/files/January2017Issued.xlsx
+wget -O permits_issued_raw/February2017.xlsx http://sfdbi.org/sites/default/files/February2017Issued.xlsx
+wget -O permits_issued_raw/March2017.xlsx http://sfdbi.org/sites/default/files/March2017Issued.xlsx
+wget -O permits_issued_raw/April2017.xlsx http://sfdbi.org/sites/default/files/April2017Issued.xlsx
+wget -O permits_issued_raw/May2017.xlsx http://sfdbi.org/sites/default/files/May2017Issued.xlsx
+wget -O permits_issued_raw/June2017.xlsx http://sfdbi.org/sites/default/files/June2017Issued.xlsx
+wget -O permits_issued_raw/July2017.xlsx http://sfdbi.org/sites/default/files/July2017Issued.xlsx
+wget -O permits_issued_raw/August2017.xlsx http://sfdbi.org/sites/default/files/August2017Issued.xlsx
+wget -O permits_issued_raw/September2017.xlsx http://sfdbi.org/sites/default/files/September2017Issued.xlsx
+wget -O permits_issued_raw/October2017.xlsx http://sfdbi.org/sites/default/files/October2017Issued.xlsx
+# wget -O permits_issued_raw/November2017.xlsx http://sfdbi.org/sites/default/files/November2017Issued.xlsx
+# wget -O permits_issued_raw/December2017.xlsx http://sfdbi.org/sites/default/files/December2017Issued.xlsx
